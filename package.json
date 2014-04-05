@@ -1,0 +1,16 @@
+{
+  "name": "seajs_scaffold",
+  "version": "1.0.0",
+  "description": "seajs scaffold project",
+  "main": "index.html",
+  "dependencies": {
+    "spm": "~> 2.2"
+  },
+  "devDependencies": {
+    "bower": "~> 1.3",
+    "grunt": "~> 0.4",
+    "grunt-cli": "~> 0.1",
+    "grunt-contrib-watch": "~> 0.6",
+    "spm-build": "~> 0.3"
+  }
+}

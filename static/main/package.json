@@ -1,0 +1,14 @@
+{
+  "family": "seajs_scaffold",
+  "name": "main",
+  "version": "1.0.0",
+
+  "spm": {
+    "alias": {
+      "jquery": "jquery",
+      "underscore": "underscore",
+      "underscore-string": "underscore-string"
+    },
+    "output": ["main.js", "style.css"]
+  }
+}

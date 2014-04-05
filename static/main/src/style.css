@@ -1,0 +1,12 @@
+html, body, div, span, h1, h2, h3, h4, p, img, strong, ol, ul, li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  background: #F4F4F4;
+}
